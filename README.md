@@ -25,5 +25,7 @@ window.onerror = function(message, source, lineno, colno, error){
 
 Try to resize the window until the phoneNumber starts wrapping to two lines, it will trigger a log output to Console
 
+## Image
 
+![](./static/error.png)
 

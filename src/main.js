@@ -11,7 +11,7 @@ Vue.config.productionTip = false
 Vue.use(Element)
 
 window.onerror = function(message, source, lineno, colno, error){
-  console.log(message, source, lineno, colno, error)
+  console.error(message, source, lineno, colno, error)
 }
 
 // var fundebug=require("fundebug-javascript")
