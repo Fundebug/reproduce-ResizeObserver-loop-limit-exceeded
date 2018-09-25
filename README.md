@@ -17,7 +17,7 @@ npm run dev
 The `window.onerror` function is redefined in `main.js` as follows:
 ```js
 window.onerror = function(message, source, lineno, colno, error){
-  console.log(message, source, lineno, colno, error)
+  console.error(message, source, lineno, colno, error)
 }
 ```
 
