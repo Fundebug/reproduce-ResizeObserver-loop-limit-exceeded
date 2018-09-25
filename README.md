@@ -1,6 +1,6 @@
 # test
 
-> A Vue.js project for reproducing ResizeObserver loop limit exceed error
+> A Vue.js project for reproducing ResizeObserver loop limit exceed error when using Element UI `el-table`
 
 ## Build Setup
 
